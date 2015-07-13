@@ -1,0 +1,1 @@
+# phaser-simplepause.js
